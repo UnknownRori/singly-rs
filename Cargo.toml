@@ -16,4 +16,4 @@ hashbrown = "0.14.3"
 
 [dev-dependencies]
 lazy_static = "1.4.0"
-rand = "0.8.5"
+rand = "0.9.3"
